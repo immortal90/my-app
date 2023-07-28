@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# The first application is written in combination of Typescript + React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
