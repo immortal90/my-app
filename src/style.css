@@ -1,0 +1,16 @@
+.app {
+  text-align: center;
+}
+
+.line {
+  display: flex;
+  justify-content: center;
+}
+
+.cell {
+  border: 1px solid goldenrod;
+  cursor: pointer;
+  background-color: aqua;
+  min-height: 2.5em;
+  min-width: 2.5em;
+}
